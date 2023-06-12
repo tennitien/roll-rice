@@ -1,6 +1,6 @@
 # Pig Game (this is a Lab for study)
 
-- <https://patimi.github.io/piggame/>
+- <https://tennitien.github.io/roll-rice/>
 
 ## Include
 
